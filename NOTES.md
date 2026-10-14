@@ -1,0 +1,2 @@
+- tmux prefix: Ctrl+a
+- alias gs="git status -sb"
